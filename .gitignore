@@ -3,3 +3,5 @@ auto-save-list/
 elpa/
 save/
 eshell/
+projectile.cache
+projectile-bookmarks.eld
