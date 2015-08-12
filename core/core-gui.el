@@ -32,7 +32,7 @@
 (menu-bar-mode -1)
 (setq-default fill-column 80)
 (global-linum-mode t)
-
+(setq-default cursor-type 'bar)
 
 ;; maximize the frame
 (require-package 'maxframe)
